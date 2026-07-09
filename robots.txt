@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simonzeiner.github.io/Nonnenmacher/sitemap.xml
